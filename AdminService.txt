@@ -3,3 +3,5 @@ can edit roles as well...
 
 established connection!
 given permission
+
+lightversion added lite features!
